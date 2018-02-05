@@ -16,13 +16,13 @@ sys.path.append('./versioning')
 from github_releases import get_latest_release
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'SampleDoc'
+settings_project_name = 'Circolare XX'
 settings_copyright_copyleft = 'CC-BY 3.0'
 settings_editor_name = 'GP'
 settings_doc_version = get_latest_release('italia', 'design-doc')
 settings_doc_release = settings_doc_version
-settings_basename = 'SampleDoc'
-settings_file_name = 'Sample-Doc'
+settings_basename = 'circolare-XX'
+settings_file_name = 'circolare-XX'
 
 # -- RTD configuration ------------------------------------------------
 

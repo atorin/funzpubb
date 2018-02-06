@@ -1,4 +1,4 @@
-Circolare XX. Funzione Pubblica
-============================================
+Circolare XX
+============
 
 .. include:: articolo.rst
